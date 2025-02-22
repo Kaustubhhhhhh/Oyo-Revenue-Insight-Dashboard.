@@ -40,7 +40,8 @@ It helps in **tracking revenue, occupancy rates, average daily rate (ADR), and o
 ---
 
 ## 📸 Dashboard Preview  
-![image](https://github.com/user-attachments/assets/f8998915-40ca-4d65-82de-704a1ee9491f)
+![image](https://github.com/user-attachments/assets/d503bf31-0c25-4b88-953c-3c9dcbd60f74)
+
 
 
 
